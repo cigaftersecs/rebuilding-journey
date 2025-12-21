@@ -1,2 +1,7 @@
-# rebuilding-journey
-focus on rebuilding a career data science and ielts preparation
+# Rebuilding Journey
+
+Day 1:
+- Created GitHub repositories
+- Started IELTS + Data Science rebuilding plan
+- Focused on discipline over perfection
+  
