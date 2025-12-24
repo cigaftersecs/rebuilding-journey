@@ -5,3 +5,4 @@ Day 1:
 - Started IELTS + Data Science rebuilding plan
 - Focused on discipline over perfection
   
+Been watching and practicing pyhton and uploading it to github
